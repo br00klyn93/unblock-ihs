@@ -1,4 +1,6 @@
 {
+   "name": "unblock-ihs",
+  "version": "1.0.0",
 "require-dev": {
     "heroku/heroku-buildpack-php": "*"
   }
